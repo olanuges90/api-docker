@@ -6,7 +6,7 @@
 ![sportsapi drawio](https://github.com/user-attachments/assets/c035c5a3-b052-423c-ad8a-a431b852dca4)
 
 
-## Project Structure
+# Project Structure
     soccer-stats-docker/
     ├── src/
     │   ├── __init__.py
@@ -51,7 +51,7 @@ Clone your Github repository into your local machine
 git clone https://github.com/olanuges90/api-docker
 cd api-docker
 ```
-## 2. Enviromental Variable
+## 2. Environmental Variable
    
    Create a .env file and Replace the variable with your RapidAPI Key. Echo the .env file into your .gitignore to secure your RapidAPI key
 ```sh
@@ -72,7 +72,7 @@ Navigate to your web browser and paste the url below in your search bar
 ```sh
 http://localhost:8000
 ```
-Alternatively, use Postman to interact with the API endpoints. 
+- Alternatively, use Postman to interact with the API endpoints. 
 
 ## API endpoints
 - / - Welcome message and available endpoints
@@ -104,6 +104,6 @@ docker system prune
 4. Process JSON data from an external API.
 5. Format and structure data for better usability in front-end applications.
 
-## Future Enhancement
+##  Future Enhancement
 1. Frontend Dashboard to visualize team and player statistics
 2. Multi-API Integration
