@@ -70,7 +70,7 @@ docker run -p 8000:8000 --env-file .env soccer-stats
 ## 4. Test the API
 Navigate to your web browser and paste the url below in your search bar
 ```sh
-http://localhost:8000
+http://127.0.0.1:8000
 ```
 - Alternatively, use Postman to interact with the API endpoints. 
 
