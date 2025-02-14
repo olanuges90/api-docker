@@ -48,7 +48,7 @@
 Clone your Github repository into your local machine
    
 ```sh
-git clone https://github.com/olanuges90/api-docker
+git clone https://github.com/olanuges90/soccer-stats-tracker
 cd api-docker
 ```
 ## 2. Environmental Variable
