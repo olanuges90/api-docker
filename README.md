@@ -1,4 +1,4 @@
-# Developing a Containerized Soccer Stats Application 
+# DePploying a Containerized Soccer Stats Application 
 
 ## This project implements a containerized soccer statistics application using Docker, Python (with FastAPI for efficient request handling) and the Football API
 
