@@ -1,6 +1,6 @@
-# Deploying a Containerized Soccer Stats Application 
+# Deploying a Containerized Soccer Stats Tracker 
 
-## This project implements a containerized soccer statistics application using Docker, Python (with FastAPI for efficient request handling) and the Football API
+## This project implements the seamless deployment of a containerized soccer statistics tracker with FastAPI - a Lighting fast Python Framework, Docker and RapidAPI.
 
 # Technical Diagram
 ![sportsapi drawio](https://github.com/user-attachments/assets/c035c5a3-b052-423c-ad8a-a431b852dca4)
